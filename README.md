@@ -1,4 +1,4 @@
-# Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction
 
 ## Description
 This repository contains the code, experiments, and documentation for the **Customer Churn Prediction** project. The goal of this project is to predict whether a customer is likely to churn based on demographic, financial, and behavioral attributes, enabling data-driven decision-making for customer retention.
